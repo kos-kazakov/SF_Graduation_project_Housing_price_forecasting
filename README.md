@@ -8,6 +8,7 @@
 * [4. Метрики качества](https://github.com/kos-kazakov/SF_Graduation_project_Housing_price_forecasting/blob/main/README.md#Метрики-качества)
 * [5. Описание данных](https://github.com/kos-kazakov/SF_Graduation_project_Housing_price_forecasting/blob/main/README.md#Описание-данных)
 * [6. Результаты](https://github.com/kos-kazakov/SF_Graduation_project_Housing_price_forecasting/blob/main/README.md#Результаты)
+* [7. Итоговая оценка](https://github.com/kos-kazakov/SF_Graduation_project_Housing_price_forecasting/blob/main/README.md#Итоговая-оценка)
 
 ## Описание проекта
  Агентство недвижимости столкнулось с проблемой — риелторы тратят слишком много времени на сортировку объявлений и поиск выгодных предложений. Поэтому скорость их реакции и качество анализа не дотягивают до уровня конкурентов. Это сказывается на финансовых показателях агентства. Задача - разработать модель машинного обучения, которая поможет обрабатывать объявления и увеличит число сделок и прибыль агентства.
@@ -58,6 +59,10 @@
 - Решена задача регрессии с использованием алгоритмов: линейная регрессия Linear Regression, полиномиальная регрессия Polynomial Regression, дерево решений Decision Tree, случайный лес Random Forest, градиентный бустинг Gradient Boosting.
 - Для продакшена по результатам сравнения метрик качества выбрана модель градиентного бустинга.
 - Проведен деплой модели на сервер и контейнеризация. Файлы модели, сервера, клиента и Dockerfile размещены в папке web.
+
+## Итоговая оценка
+Оценка ментора: 25 из 25 баллов.
+[Отзыв ментора](https://github.com/kos-kazakov/SF_Graduation_project_Housing_price_forecasting/tree/main/doc/k.kazakov.work@gmail.com_mentor_review.pdf)
 _________________________
 
 ##  [К оглавлению](https://github.com/kos-kazakov/SF_Graduation_project_Housing_price_forecasting/blob/main/README.md#Оглавление)
