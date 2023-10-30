@@ -62,6 +62,7 @@
 
 ## Итоговая оценка
 Оценка ментора: 25 из 25 баллов.
+
 [Отзыв ментора](https://github.com/kos-kazakov/SF_Graduation_project_Housing_price_forecasting/tree/main/doc/k.kazakov.work@gmail.com_mentor_review.pdf)
 _________________________
 
